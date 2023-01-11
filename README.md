@@ -1,6 +1,6 @@
 # COMP-551
 
-In this class, we had 3 assignments each tackling a different Machine Learning model and dataset. Files with the .ipynb extension are our code; files with the .pdf extension are our reports.
+In this class, we had 3 assignments each tackling a different Machine Learning model and dataset. Files with the .ipynb extension are code; files with the .pdf extension are reports.
 
 ## Summary
 - Project 1: implementing K-Nearest Neighbour (KNN) and Decision Tree (DT) models for classifying health-related data (Hepatitis survival, signs of diabetic retinopathy)
