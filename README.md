@@ -1,4 +1,4 @@
-# COMP-551
+# Applied Machine Learning
 
 In this class, we had 3 assignments each tackling a different Machine Learning model and dataset. Files with the .ipynb extension are code; files with the .pdf extension are reports.
 
